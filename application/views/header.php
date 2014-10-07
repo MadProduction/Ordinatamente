@@ -3,7 +3,7 @@
     <title><?php echo $title; ?></title>
     <link href="http://dev.ordinatamente.com/style/css/style_anna.css" rel="stylesheet" type="text/css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js""></script>
-    <script src="http://date.lashtal.com/eralegis.js"></script>
+    <script src="http://dev.ordinatamente.com/style/js/eralegis.js"></script>
 </head>
 <body>
     
