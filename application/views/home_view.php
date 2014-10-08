@@ -1,11 +1,47 @@
-<div class="container">      
-          <div class="col-sm-6">
-              <img width="70%" src="/style/img/ord_logo_grey.png">
-             </div>
-</div>                
 
-   
     
+<div class="container"> 
+    <div class="row">
+        
+          <div class="col-md-3">
+      
+             </div>
+        
+          <div class="col-md-6">
+              <img width="70%" src="/style/img/ord_logo_grey.png">
+              
+              <div class="freccia">
+                  
+                  <img src="/style/img/arrow_down.png">
+                  
+              </div>
+              
+             </div>
+        
+        
+          <div class="col-md-3">
+      
+             </div>
+                
+    
+    </div>
+    
+
+    
+</div>                   
+
+<br>
+    
+BLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLA
+BLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLA
+BLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLA
+BLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLA
+BLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLA
+BLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLA
+BLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLA
+BLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLA
+
+
 
 
 

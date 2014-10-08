@@ -1,10 +1,18 @@
 </div>
 </body>
 
-  <div id="footer">
-         <div class="col-1-50">COPYRIGHT ORDINATAMENTE 2014</div>
-         <div class="col-2-50">TERMS & CONDITIONS</div>
-        
+    <div class="container"> 
+    <div class="row spessore">
+       
+             
+             
+              <div class="col-md-12 piccolo" id="centro">
+                                          
+                  Terms and Conditions - Lingua: it | eng<br>
+                   <span data-evdate="<?php echo date('Y-m-d H:i:s');?>" class="date93"></span>
+      
+          </div>
+     </div>
     </div>
 
 </html>
